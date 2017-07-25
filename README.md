@@ -6,3 +6,5 @@ by _Chris Moffitt_
 
 [Click here to see the full
 article](http://pbpython.com/effective-matplotlib.html)
+
+![result](https://github.com/danresende/effectively-using-matplotlib/blob/master/sales.png?raw=true)
