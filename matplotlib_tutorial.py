@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from matplotlib.ticker import FuncFormatter
 
-# Setup matplotlib style
+# Setup matplotlib style and create a format function for later
 plt.style.use('seaborn-whitegrid')
 
 def currency(x, pos):
